@@ -1,6 +1,6 @@
-# attendance_app
+# splash_screen
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 
